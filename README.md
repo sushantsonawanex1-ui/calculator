@@ -26,7 +26,7 @@ A modern calculator built using **HTML, CSS, and JavaScript**. It performs basic
 
 ## 📸 Screenshot
 
-
+Screenshot_20260705_202023.jpg
 
 ---
 
