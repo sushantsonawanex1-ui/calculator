@@ -26,7 +26,7 @@ A modern calculator built using **HTML, CSS, and JavaScript**. It performs basic
 
 ## 📸 Screenshot
 
-![Calculator](screenshot.png)
+screenshot.png
 
 ---
 
